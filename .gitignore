@@ -128,6 +128,34 @@ notebooks/02_Genomes/atroparvus.fa.gz
 notebooks/02_Genomes/gambiae.fa.gz
 notebooks/02_Genomes/gambiae.gff.gz
 
+notebooks/03_PopGen/exclude1.txt
+notebooks/03_PopGen/exclude10.txt
+notebooks/03_PopGen/hapmap1.hh
+notebooks/03_PopGen/hapmap1.map
+notebooks/03_PopGen/hapmap1.ped
+notebooks/03_PopGen/hapmap10.hh
+notebooks/03_PopGen/hapmap10.map
+notebooks/03_PopGen/hapmap10.ped
+notebooks/03_PopGen/hapmap10_auto.map
+notebooks/03_PopGen/hapmap10_auto.ped
+notebooks/03_PopGen/hapmap10_auto_noofs.map
+notebooks/03_PopGen/hapmap10_auto_noofs.ped
+notebooks/03_PopGen/hapmap10_auto_noofs_2.map
+notebooks/03_PopGen/hapmap10_auto_noofs_2.ped
+notebooks/03_PopGen/hapmap10_auto_noofs_ld.bed
+notebooks/03_PopGen/hapmap10_auto_noofs_ld.bim
+notebooks/03_PopGen/hapmap10_auto_noofs_ld.fam
+notebooks/03_PopGen/hapmap10_auto_noofs_ld.map
+notebooks/03_PopGen/hapmap10_auto_noofs_ld.ped
+notebooks/03_PopGen/hapmap10_auto_noofs_ld_12.map
+notebooks/03_PopGen/hapmap10_auto_noofs_ld_12.ped
+notebooks/03_PopGen/hapmap1_auto.map
+notebooks/03_PopGen/hapmap1_auto.ped
+notebooks/03_PopGen/hapmap3_r2_b36_fwd.consensus.qc.poly.map
+notebooks/03_PopGen/hapmap3_r2_b36_fwd.consensus.qc.poly.ped
+notebooks/03_PopGen/keep.prune.in
+notebooks/03_PopGen/keep.prune.out
+notebooks/03_PopGen/relationships_w_pops_121708.txt
 
 notebooks/05_Phylo/other.fasta
 notebooks/05_Phylo/sample.fasta
