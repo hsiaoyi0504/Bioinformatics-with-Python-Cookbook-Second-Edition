@@ -156,6 +156,18 @@ notebooks/03_PopGen/hapmap3_r2_b36_fwd.consensus.qc.poly.ped
 notebooks/03_PopGen/keep.prune.in
 notebooks/03_PopGen/keep.prune.out
 notebooks/03_PopGen/relationships_w_pops_121708.txt
+notebooks/03_PopGen/hapmap10.gp
+notebooks/03_PopGen/hapmap10.pops
+notebooks/03_PopGen/hapmap10_auto.gp
+notebooks/03_PopGen/hapmap10_auto.pops
+notebooks/03_PopGen/hapmap10_auto_noofs_2.gp
+notebooks/03_PopGen/hapmap10_auto_noofs_2.gp.IN2
+notebooks/03_PopGen/hapmap10_auto_noofs_2.gp.INF
+notebooks/03_PopGen/hapmap10_auto_noofs_2.pops
+notebooks/03_PopGen/hapmap10_auto_noofs_ld.gp
+notebooks/03_PopGen/hapmap10_auto_noofs_ld.pops
+notebooks/03_PopGen/hapmap1_auto.gp
+notebooks/03_PopGen/hapmap1_auto.pops
 
 notebooks/05_Phylo/other.fasta
 notebooks/05_Phylo/sample.fasta
