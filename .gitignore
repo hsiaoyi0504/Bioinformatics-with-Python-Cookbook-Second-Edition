@@ -168,6 +168,15 @@ notebooks/03_PopGen/hapmap10_auto_noofs_ld.gp
 notebooks/03_PopGen/hapmap10_auto_noofs_ld.pops
 notebooks/03_PopGen/hapmap1_auto.gp
 notebooks/03_PopGen/hapmap1_auto.pops
+notebooks/03_PopGen/hapmap10_auto_noofs_2.gp.FST
+notebooks/03_PopGen/hapmap10_auto_noofs_2.gp.ST2
+notebooks/03_PopGen/hapmap10_auto_noofs_ld_12.eval
+notebooks/03_PopGen/hapmap10_auto_noofs_ld_12.evec
+notebooks/03_PopGen/hapmap10_auto_noofs_ld_12.geno
+notebooks/03_PopGen/hapmap10_auto_noofs_ld_12.ind
+notebooks/03_PopGen/hapmap10_auto_noofs_ld_12.param
+notebooks/03_PopGen/hapmap10_auto_noofs_ld_12.snp
+
 
 notebooks/05_Phylo/other.fasta
 notebooks/05_Phylo/sample.fasta
