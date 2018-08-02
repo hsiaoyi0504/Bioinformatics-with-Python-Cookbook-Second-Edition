@@ -205,3 +205,11 @@ notebooks/05_Phylo/bp_rx/
 notebooks/05_Phylo/ebola_simple.nex
 notebooks/05_Phylo/my_ebola.nex
 notebooks/05_Phylo/trim.fasta.reduced
+
+notebooks/06_Prot/1olg.fasta
+notebooks/06_Prot/1tup.cif
+notebooks/06_Prot/1tup.fasta
+notebooks/06_Prot/1ycq.fasta
+notebooks/06_Prot/pdb1olg.ent
+notebooks/06_Prot/pdb1tup.ent
+notebooks/06_Prot/pdb1ycq.ent
