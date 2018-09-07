@@ -1,0 +1,17 @@
+#conda install -c conda-forge airflow
+pip install apache-airflow (not conda)
+
+airflow initdb
+airflow webserver -p 8080 &
+airflow scheduler
+
+
+####
+
+
+create ftp_ncbi connection
+create fs_bioinf
+
+
+mkdir ~/airflow/dags
+cp create_tasks.py ~/airflow/dags
