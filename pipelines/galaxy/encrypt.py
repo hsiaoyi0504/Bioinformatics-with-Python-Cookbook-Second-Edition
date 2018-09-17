@@ -12,9 +12,8 @@ from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives import hashes
 from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
 
-#print('Please enter the password:')
-#password = getpass.getpass()
-password = b"bioinf"
+password = getpass.getpass('Please enter the password:').encode()
+
 salt = os.urandom(16)
 kdf = PBKDF2HMAC(algorithm=hashes.SHA256(), length=32, salt=salt,
                  iterations=100000, backend=default_backend())
