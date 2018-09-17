@@ -15,8 +15,6 @@ from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
 import pandas as pd
 
 from bioblend.galaxy import GalaxyInstance
-from bioblend.galaxy.histories import HistoryClient
-from bioblend.galaxy.datasets import DatasetClient
 
 pp = pprint.PrettyPrinter()
 warnings.filterwarnings('ignore')
@@ -26,9 +24,8 @@ warnings.filterwarnings('ignore')
 with open('galaxy.yaml.enc', 'rb') as f:
     enc_conf = f.read()
 
-#print('Please enter the password:')
-#password = getpass.getpass()
-password = b"bioinf"
+
+password = getpass.getpass('Please enter the password:').encode()
 with open('salt', 'rb') as f:
     salt = f.read()
 kdf = PBKDF2HMAC(algorithm=hashes.SHA256(), length=32, salt=salt,
@@ -106,10 +103,9 @@ pp.pprint(all_tools)
 print()
 
 bed2gff = gi.tools.get_tools(name='Convert BED to GFF')[0]
-print("Converter metadata:")
+print("Convert BED to GFF metadata:")
 pp.pprint(gi.tools.show_tool(bed2gff['id'], io_details=True, link_details=True))
 print()
-
 
 def dataset_to_param(dataset):
     return dict(src='hda', id=dataset['id'])
