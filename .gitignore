@@ -214,10 +214,13 @@ notebooks/06_Prot/pdb1olg.ent
 notebooks/06_Prot/pdb1tup.ent
 notebooks/06_Prot/pdb1ycq.ent
 
+notebooks/08_Advanced/1tup.cif
+notebooks/08_Advanced/pdb1tup.ent
+
 notebooks/09_Other/data
 notebooks/09_Other/*qza
 notebooks/09_Other/tree.nwk
 notebooks/09_Other/sample?metadata.tsv
 notebooks/09_Other/integrated_call_samples.20101123.ped
 notebooks/09_Other/output.SHAPEIT.20140226.chr20.wgs_sites.haps
-notebooks/09_Other/output.SHAPEIT.20140226.chr20.wgs_sites.haps.sample
+otebooks/09_Other/output.SHAPEIT.20140226.chr20.wgs_sites.haps.sample
