@@ -225,4 +225,6 @@ notebooks/09_Other/tree.nwk
 notebooks/09_Other/sample?metadata.tsv
 notebooks/09_Other/integrated_call_samples.20101123.ped
 notebooks/09_Other/output.SHAPEIT.20140226.chr20.wgs_sites.haps
-otebooks/09_Other/output.SHAPEIT.20140226.chr20.wgs_sites.haps.sample
+notebooks/09_Other/output.SHAPEIT.20140226.chr20.wgs_sites.haps.sample
+
+notebooks/10_ML/ag1000g.crosses.phase1.ar3sites.3L.h5
