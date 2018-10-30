@@ -228,3 +228,4 @@ notebooks/09_Other/output.SHAPEIT.20140226.chr20.wgs_sites.haps
 notebooks/09_Other/output.SHAPEIT.20140226.chr20.wgs_sites.haps.sample
 
 notebooks/10_ML/ag1000g.crosses.phase1.ar3sites.3L.h5
+notebooks/10_ML/mendelian_errors.pickle
