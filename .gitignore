@@ -229,3 +229,14 @@ notebooks/09_Other/output.SHAPEIT.20140226.chr20.wgs_sites.haps.sample
 
 notebooks/10_ML/ag1000g.crosses.phase1.ar3sites.3L.h5
 notebooks/10_ML/mendelian_errors.pickle
+notebooks/10_ML/balanced_fit.npy.gz
+notebooks/10_ML/feature_fit.npy.gz
+notebooks/10_ML/mendelian_errors.pickle.gz
+notebooks/10_ML/ordered_features
+notebooks/10_ML/scaled_balanced_fit.npy.gz
+notebooks/10_ML/scaled_balanced_fit_100_test.npy.gz
+notebooks/10_ML/scaled_balanced_fit_10_test.npy.gz
+notebooks/10_ML/scaled_balanced_fit_1_test.npy.gz
+notebooks/10_ML/scaled_balanced_fit_cv.npy.gz
+notebooks/10_ML/scaled_feature_fit.npy.gz
+
