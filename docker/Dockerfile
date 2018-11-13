@@ -21,7 +21,7 @@ RUN apt-get install -y git wget build-essential unzip
 RUN apt-get clean
 
 
-RUN conda config --add channels bioconda
+RUN conda config --add channels bioconda bpeng
 RUN conda install --yes biopython=1.70
 RUN conda install --yes statsmodels pysam plink gffutils genepop trimal
 RUN conda install --yes  simuPOP
